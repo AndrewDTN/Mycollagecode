@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\bin\Debug\翻牌.exe.config
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\bin\Debug\翻牌.exe
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\bin\Debug\翻牌.pdb
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.Form1.resources
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.Properties.Resources.resources
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.exe
+C:\Users\USER\Desktop\Code2\翻牌\翻牌\obj\Debug\翻牌.pdb
